@@ -85,8 +85,8 @@
   <name>EP RFN Help</name>
   <description>This is the custom module (EP RFN Help) for running on a Digital Factory server.</description>
   <scm>
-    <connection>scm:dummy:uri</connection>
-    <developerConnection>scm:dummy:uri</developerConnection>
+    <connection>scm:git:git@github.com:odambrosio/ep-rfn-help.git</connection>
+    <developerConnection>scm:git:git@github.com:odambrosio/ep-rfn-help.git</developerConnection>
   </scm>
   <repositories>
     <repository>
